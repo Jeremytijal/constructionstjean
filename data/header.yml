@@ -1,18 +1,6 @@
 title_url: '#'
-subtitle: |-
-  Nibh sed aliquam, cursus arcu aliquet  
-  natoque rhoncus ut non in Aliquet
-actions:
-  - icon: fa-download
-    is_primary: true
-    is_scrolly: false
-    label: Download
-    url: /elements
-  - icon: fa-chevron-down
-    is_primary: false
-    is_scrolly: true
-    label: Learn More
-    url: '#one'
+subtitle: '# SITE EN CONSTRUCTION'
+actions: []
 img:
   path: /images/Copie de Sans titre.png
   phone_border: true
