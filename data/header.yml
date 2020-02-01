@@ -1,6 +1,8 @@
 title_url: '#'
-subtitle: ''
+subtitle: >-
+  ![Autrement Saint Jean de Monts](/images/Copie de Sans titre.png "Autrement
+  Saint Jean de Monts")
 actions: []
 img:
-  path: /images/Copie de Sans titre.png
-  phone_border: true
+  path: ''
+  phone_border: false
