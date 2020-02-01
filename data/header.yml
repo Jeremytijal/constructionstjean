@@ -3,4 +3,4 @@ subtitle: ''
 actions: []
 img:
   path: /images/Copie de Sans titre.png
-  phone_border: false
+  phone_border: true
